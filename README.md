@@ -1,27 +1,137 @@
-<h1 align="center">Hi 👋, I'm AYUSH CHAUDHARY</h1>
-<h3 align="center">I'm a passionate computer science student with a strong foundation in programming and problem-solving. Eager to contribute to innovative tech projects and learn from the best in the industry. Excited about the future of AI and software development.</h3>
+<!-- Custom Cosmic Banner -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush23chaudhary&label=Profile%20views&color=0e75b6&style=flat" alt="ayush23chaudhary" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayush23chaudhary" alt="ayush23chaudhary" /></a> </p>
-
-- 🔭 I’m currently working on [HealthCare Edge](https://github.com/ayush23chaudhary/Hack_JMI_Byte_Benders)
-
-- 🌱 I’m currently learning **Microsoft AI ,Agentic AI's**
-
-- 📫 How to reach me **ayush23chaudhary@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ayush23chaudhary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush23chaudhary" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ayush23chaudhary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ayush23chaudhary" height="30" width="40" /></a>
+<h1 align="center">Hi 👋, I'm <span style="color:#9D00FF">AYUSH CHAUDHARY</span></h1>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ayush23chaudhary/ayush23chaudhary/main/81bb4b165684019.640b6038d133e.gif" alt="Ayush Chaudhary Banner" width="70%" height="80%" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayush23chaudhary&show_icons=true&locale=en&layout=compact" alt="ayush23chaudhary" /></p>
+<!-- Blinking Circuit "AI Loading" Banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/ai-loading-banner.gif" alt="Blinking Circuit AI Loading Banner" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayush23chaudhary&show_icons=true&locale=en" alt="ayush23chaudhary" /></p>
+<!-- Main Title -->
+<h3 align="center">💻 Passionate Computer Science Student | 🚀 Future AI Innovator | 🧠 Tech Explorer</h3>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayush23chaudhary&" alt="ayush23chaudhary" /></p>
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=9D00FF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;AI+%7C+Full+Stack+%7C+Problem+Solver;Always+learning+new+things..." alt="Typing SVG" />
+</p>
+
+---
+
+<!-- Profile Views & Trophies -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ayush23chaudhary&label=Profile%20views&color=6A0DAD&style=flat" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ayush23chaudhary&theme=midnight-purple&row=2&column=4" alt="Trophies" />
+</p>
+
+---
+
+<!-- Planetary Orbit Animation with Your Name -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/planetary-orbit.gif" alt="Planetary Orbit with AYUSH CHAUDHARY" />
+</p>
+
+<!-- Projects & Learning -->
+<h3 align="center">🚀 Projects & Learning</h3>
+<p align="center">
+  🔭 Currently working on: <a href="https://github.com/ayush23chaudhary/Hack_JMI_Byte_Benders">HealthCare Edge</a> <br/>
+  🌱 Currently learning: <strong>Microsoft AI</strong>, <strong>Agentic AI</strong> <br/>
+  📫 Contact me: <strong>ayush23chaudhary@gmail.com</strong>
+</p>
+
+---
+
+<!-- Connect with Me -->
+<h3 align="center">🌐 Connect with Me</h3>
+<p align="center">
+  <a href="https://linkedin.com/in/ayush23chaudhary" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" />
+  </a>
+  &nbsp;
+  <a href="https://www.leetcode.com/ayush23chaudhary" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Leetcode" width="40" />
+  </a>
+</p>
+
+---
+
+<!-- Languages & Tools -->
+<h3 align="center">🛠️ Languages & Tools by Domain</h3>
+
+<p align="center"><strong>👨‍💻 Programming</strong></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python" style="margin: 0 20px;" />
+  <img src="https://skillicons.dev/icons?i=java" style="margin: 0 10px;" />
+  <img src="https://skillicons.dev/icons?i=c" style="margin: 0 10px;" />
+  <img src="https://skillicons.dev/icons?i=cpp" style="margin: 0 10px;" />
+  <img src="https://skillicons.dev/icons?i=ts" style="margin: 0 10px;" />
+  <img src="https://skillicons.dev/icons?i=js" style="margin: 0 10px;" />
+</p>
+
+<p align="center"><strong>🌐 Web Development</strong></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html" style="margin: 0 10px;" />
+  <img src="https://skillicons.dev/icons?i=css" style="margin: 0 10px;" />
+  <img src="https://skillicons.dev/icons?i=react" style="margin: 0 10px;" />
+  <img src="https://skillicons.dev/icons?i=nodejs" style="margin: 0 10px;" />
+  <img src="https://skillicons.dev/icons?i=mongodb" style="margin: 0 10px;" />
+  <img src="https://skillicons.dev/icons?i=mysql" style="margin: 0 10px;" />
+</p>
+
+<p align="center"><strong>🔧 DevOps & Tools</strong></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker" style="margin: 0 10px;" />
+  <img src="https://skillicons.dev/icons?i=git" style="margin: 0 10px;" />
+  <img src="https://skillicons.dev/icons?i=linux" style="margin: 0 10px;" />
+  <img src="https://skillicons.dev/icons?i=vscode" style="margin: 0 10px;" />
+</p>
+
+
+---
+
+<!-- GitHub Stats -->
+<h3 align="center">📊 GitHub Stats</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayush23chaudhary&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayush23chaudhary&show_icons=true&locale=en&theme=midnight-purple" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayush23chaudhary&theme=midnight-purple" alt="GitHub Streak" />
+</p>
+
+<!-- Pulse Graph / Data Animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/pulse-graph.gif" alt="Pulse Graph Animation" />
+</p>
+
+---
+
+<!-- Contribution Grid + Shooting Star Overlay Animation -->
+<h3 align="center">🎯 Fun Fact</h3>
+<p align="center">
+  <em>"Every bug you fix now saves you from five new bugs later." 🐛 ➡️ 🚫</em>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/shooting-stars-overlay.gif" alt="Shooting Star Contribution Overlay" />
+</p>
+
+<!-- Contribution Grid Snake Animation -->
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=100&section=footer" alt="Footer Capsule" />
+</p>
