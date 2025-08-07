@@ -40,7 +40,7 @@
 <!-- Projects & Learning -->
 <h3 align="center">🚀 Projects & Learning</h3>
 <p align="center">
-  🔭 Currently working on: <a href="https://github.com/ayush23chaudhary/Hack_JMI_Byte_Benders">HealthCare Edge</a> <br/>
+  🔭 Currently working on: <a href="https://github.com/ayush23chaudhary/SpeakWise">SpeakWise- An intelligent Speech Analyser tool</a> <br/>
   🌱 Currently learning: <strong>Microsoft AI</strong>, <strong>Agentic AI</strong> <br/>
   📫 Contact me: <strong>ayush23chaudhary@gmail.com</strong>
 </p>
