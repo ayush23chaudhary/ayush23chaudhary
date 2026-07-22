@@ -96,17 +96,16 @@
 ---
 
 <!-- GitHub Stats -->
-<h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayush23chaudhary&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayush23chaudhary&theme=tokyonight"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayush23chaudhary&show_icons=true&locale=en&theme=midnight-purple" alt="GitHub Stats" />
-</p>
+<!-- <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayush23chaudhary&theme=tokyo-night&hide_border=true"/>
+</p> -->
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayush23chaudhary&theme=midnight-purple" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=ayush23chaudhary&theme=tokyonight&hide_border=true"/>
 </p>
 
 <!-- Pulse Graph / Data Animation -->
