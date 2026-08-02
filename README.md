@@ -179,6 +179,7 @@
 # 📝 Latest Articles
 
 <!-- DEVTO:START -->
+- [The Code I&#39;d Never Show in an Interview](https://dev.to/ayush23chaudhary/the-code-id-never-show-in-an-interview-2b6c)
 <!-- DEVTO:END -->
 
 <p>
