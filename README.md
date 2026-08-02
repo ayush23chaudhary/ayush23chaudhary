@@ -1,136 +1,190 @@
-<!-- Custom Cosmic Banner -->
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm <span style="color:#9D00FF">AYUSH CHAUDHARY</span></h1>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ayush23chaudhary/ayush23chaudhary/main/81bb4b165684019.640b6038d133e.gif" alt="Ayush Chaudhary Banner" width="70%" height="80%" />
-</p>
+# 👋 Hi, I'm Ayush Chaudhary
 
+### AI Engineer • Full Stack Developer • Problem Solver
 
-<!-- Blinking Circuit "AI Loading" Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/ai-loading-banner.gif" alt="Blinking Circuit AI Loading Banner" />
-</p>
+> Building scalable AI-powered applications that solve real-world problems through clean architecture, modern web technologies, and intelligent automation.
 
-<!-- Main Title -->
-<h3 align="center">💻 Passionate Computer Science Student | 🚀 Future AI Innovator | 🧠 Tech Explorer</h3>
-
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=9D00FF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;AI+%7C+Full+Stack+%7C+Problem+Solver;Always+learning+new+things..." alt="Typing SVG" />
-</p>
+</div>
 
 ---
 
-<!-- Profile Views & Trophies -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ayush23chaudhary&label=Profile%20views&color=6A0DAD&style=flat" alt="Profile Views" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ayush23chaudhary&theme=midnight-purple&row=2&column=4" alt="Trophies" />
-</p>
+#  About Me
 
----
+🎓 **Undergrad in Computer Science Engineering** 
 
-<!-- Planetary Orbit Animation with Your Name -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/planetary-orbit.gif" alt="Planetary Orbit with AYUSH CHAUDHARY" />
-</p>
+🤖 Passionate about **Artificial Intelligence**, **Backend Engineering**, and **Full Stack Development**
 
-<!-- Projects & Learning -->
-<h3 align="center">🚀 Projects & Learning</h3>
-<p align="center">
-  🔭 Currently working on: <a href="https://github.com/ayush23chaudhary/SpeakWise">SpeakWise- An intelligent Speech Analyser tool</a> <br/>
-  🌱 Currently learning: <strong>Microsoft AI</strong>, <strong>Agentic AI</strong> <br/>
-  📫 Contact me: <strong>ayush23chaudhary@gmail.com</strong>
-</p>
+🚀 Currently building AI-powered products and scalable web applications
+
+🌱 Exploring **System Design**, **Cloud Computing**, and **Distributed Systems**
+
+💡 I enjoy transforming ideas into real-world software that creates impact
+
+💬 Ask me about **Java, Spring Boot, React, Node.js, AI, and System Design**
+
+📫 Reach me at **ayush23chaudhary@example.com**
+
+</div>
 
 ---
 
-<!-- Connect with Me -->
-<h3 align="center">🌐 Connect with Me</h3>
+<div align="center">
+
+#  Tech Stack
+
 <p align="center">
-  <a href="https://linkedin.com/in/ayush23chaudhary" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" />
-  </a>
-  &nbsp;
-  <a href="https://www.leetcode.com/ayush23chaudhary" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Leetcode" width="40" />
-  </a>
+
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="45" height="45"/></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="45" height="45"/></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45"/></a>
+
 </p>
+
+<p align="center">
+
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="45" height="45"/></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="45" height="45"/></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="45" height="45"/></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="45" height="45"/></a>
+<a target="_blank" href="https://vitejs.dev/logo.svg"><img src="https://vitejs.dev/logo.svg" alt="Vite" width="45" height="45"/></a>
+
+</p>
+
+<p align="center">
+
+<a target="_blank" href="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="45" height="45"/></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="45" height="45"/></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="45" height="45"/></a>
+
+</p>
+
+<p align="center">
+
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="45" height="45"/></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="45" height="45"/></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="45" height="45"/></a>
+
+</p>
+
+<p align="center">
+
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="45" height="45"/></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="45" height="45"/></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="45" height="45"/></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="45" height="45"/></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/github/github-icon.svg"><img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="45" height="45"/></a>
+
+</p>
+
+</div>
 
 ---
 
-<!-- Languages & Tools -->
-<h3 align="center">🛠️ Languages & Tools by Domain</h3>
+<div align="center">
 
-<p align="center"><strong>👨‍💻 Programming</strong></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python" style="margin: 0 20px;" />
-  <img src="https://skillicons.dev/icons?i=java" style="margin: 0 10px;" />
-  <img src="https://skillicons.dev/icons?i=c" style="margin: 0 10px;" />
-  <img src="https://skillicons.dev/icons?i=cpp" style="margin: 0 10px;" />
-  <img src="https://skillicons.dev/icons?i=ts" style="margin: 0 10px;" />
-  <img src="https://skillicons.dev/icons?i=js" style="margin: 0 10px;" />
-</p>
+#  GitHub Statistics
 
-<p align="center"><strong>🌐 Web Development</strong></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html" style="margin: 0 10px;" />
-  <img src="https://skillicons.dev/icons?i=css" style="margin: 0 10px;" />
-  <img src="https://skillicons.dev/icons?i=react" style="margin: 0 10px;" />
-  <img src="https://skillicons.dev/icons?i=nodejs" style="margin: 0 10px;" />
-  <img src="https://skillicons.dev/icons?i=mongodb" style="margin: 0 10px;" />
-  <img src="https://skillicons.dev/icons?i=mysql" style="margin: 0 10px;" />
-</p>
+<!-- <img height="170" src="https://github-readme-stats.vercel.app/api?username=ayush23chaudhary&show_icons=true&theme=tokyonight&hide_border=true"/> -->
 
-<p align="center"><strong>🔧 DevOps & Tools</strong></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker" style="margin: 0 10px;" />
-  <img src="https://skillicons.dev/icons?i=git" style="margin: 0 10px;" />
-  <img src="https://skillicons.dev/icons?i=linux" style="margin: 0 10px;" />
-  <img src="https://skillicons.dev/icons?i=vscode" style="margin: 0 10px;" />
-</p>
+<!-- <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush23chaudhary&layout=compact&theme=tokyonight&hide_border=true"/> -->
 
+<!-- <br><br> -->
+
+<img src="https://streak-stats.demolab.com?user=ayush23chaudhary&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
-<!-- GitHub Stats -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayush23chaudhary&theme=tokyonight"/>
-</p>
+<div align="center">
 
-<!-- <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayush23chaudhary&theme=tokyo-night&hide_border=true"/>
-</p> -->
+#  Connect With Me
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ayush23chaudhary&theme=tokyonight&hide_border=true"/>
-</p>
+<a href="https://ayush-info.vercel.app" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
-<!-- Pulse Graph / Data Animation -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/pulse-graph.gif" alt="Pulse Graph Animation" />
-</p>
+<a href="https://www.linkedin.com/in/ayush23chaudhary" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://x.com/im_AyushCh" target="_blank">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="https://github.com/ayush23chaudhary" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/ayush23chaudhary" target="_blank">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<!-- <a href="https://www.codeforces.com/" target="_blank">
+<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge"/>
+</a> -->
+
+<a href="https://dev.to/ayush23chaudhary" target="_blank">
+<img src="https://img.shields.io/badge/DEV-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/ayush_chaudharyy23" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="mailto:ayush23chaudhary@example.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
-<!-- Contribution Grid + Shooting Star Overlay Animation -->
-<h3 align="center">🎯 Fun Fact</h3>
-<p align="center">
-  <em>"Every bug you fix now saves you from five new bugs later." 🐛 ➡️ 🚫</em>
+<div align="center">
+
+#  Visitor Counter
+
+<img src="https://komarev.com/ghpvc/?username=ayush23chaudhary&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+</div>
+
+</br>
+
+<div align="center">
+
+⭐ Star repositories you like
+
+💬 Contributions and feedback are always welcome
+
+
+</div>
+
+---
+
+<!-- <div align="center">
+
+### Thanks for visiting! Happy Coding! 🚀
+
+</div>  -->
+
+
+<div align="center">
+
+# 📝 Latest Articles
+
+<!-- DEVTO:START -->
+<!-- DEVTO:END -->
+
+<p>
+<a href="https://dev.to/ayush23chaudhary">
+<img src="https://img.shields.io/badge/Read%20More%20on%20DEV.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/>
+</a>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/shooting-stars-overlay.gif" alt="Shooting Star Contribution Overlay" />
-</p>
-
-<!-- Contribution Grid Snake Animation -->
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
-
-<!-- Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=100&section=footer" alt="Footer Capsule" />
-</p>
+</div>
