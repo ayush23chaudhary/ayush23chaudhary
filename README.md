@@ -26,7 +26,7 @@
 
 💬 Ask me about **Java, Spring Boot, React, Node.js, AI, and System Design**
 
-📫 Reach me at **ayush23chaudhary@example.com**
+📫 Reach me at **ayush23chaudhary@gmail.com**
 
 </div>
 
